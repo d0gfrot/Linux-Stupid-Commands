@@ -1,0 +1,4 @@
+Put this folder in your home directory
+then open the directory in your terminal by using "cd bin" 
+then from there you need to give executive permissions to my files by using "chmod +x crucified.sh mambo.sh mambochrist.sh operao.sh rick.sh tom.sh umapyoi.sh umarap.sh"
+then it should work!
